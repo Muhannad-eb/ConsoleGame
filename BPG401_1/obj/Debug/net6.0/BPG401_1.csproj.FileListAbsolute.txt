@@ -1,0 +1,15 @@
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\obj\Debug\net6.0\BPG401_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\obj\Debug\net6.0\BPG401_1.AssemblyInfoInputs.cache
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\obj\Debug\net6.0\BPG401_1.AssemblyInfo.cs
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\obj\Debug\net6.0\BPG401_1.csproj.CoreCompileInputs.cache
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\bin\Debug\net6.0\BPG401_1.exe
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\bin\Debug\net6.0\BPG401_1.deps.json
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\bin\Debug\net6.0\BPG401_1.runtimeconfig.json
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\bin\Debug\net6.0\BPG401_1.dll
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\bin\Debug\net6.0\ref\BPG401_1.dll
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\bin\Debug\net6.0\BPG401_1.pdb
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\obj\Debug\net6.0\BPG401_1.dll
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\obj\Debug\net6.0\ref\BPG401_1.dll
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\obj\Debug\net6.0\BPG401_1.pdb
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\obj\Debug\net6.0\BPG401_1.genruntimeconfig.cache
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\obj\Debug\net6.0\BPG401_1.csproj.AssemblyReference.cache

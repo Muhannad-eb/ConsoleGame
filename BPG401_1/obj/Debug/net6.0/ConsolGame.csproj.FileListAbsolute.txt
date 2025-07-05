@@ -1,0 +1,14 @@
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\bin\Debug\net6.0\ConsolGame.exe
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\bin\Debug\net6.0\ConsolGame.deps.json
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\bin\Debug\net6.0\ConsolGame.runtimeconfig.json
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\bin\Debug\net6.0\ConsolGame.dll
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\bin\Debug\net6.0\ref\ConsolGame.dll
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\bin\Debug\net6.0\ConsolGame.pdb
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\obj\Debug\net6.0\ConsolGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\obj\Debug\net6.0\ConsolGame.AssemblyInfoInputs.cache
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\obj\Debug\net6.0\ConsolGame.AssemblyInfo.cs
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\obj\Debug\net6.0\ConsolGame.csproj.CoreCompileInputs.cache
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\obj\Debug\net6.0\ConsolGame.dll
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\obj\Debug\net6.0\ref\ConsolGame.dll
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\obj\Debug\net6.0\ConsolGame.pdb
+D:\Home_Work\C#\BPG401\BPG401_1\BPG401_1\obj\Debug\net6.0\ConsolGame.genruntimeconfig.cache
